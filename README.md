@@ -33,9 +33,9 @@
 
 | Projeto & Stack | Descrição |
 | :--- | :--- |
-| **[Price Crawler](https://github.com/Kaue2/Price_crawler)** <br> 🦀 *Rust, Python, RabbitMQ* | Arquitetura de microsserviços orientada a eventos. [cite_start]Possui um módulo ETL de alta performance em **Rust** e crawler em **Python**[cite: 21, 23, 24]. |
-| **https://www.shorturl.at/(https://github.com/Kaue2/Encurtador_url)** <br> 🐹 *Go, Redis, Docker* | [cite_start]API de baixíssima latência construída em **Go (Golang)** utilizando **Redis** para cache rápido e deploy via Docker[cite: 30, 31, 32]. |
-| **[Data Visualization](https://github.com/Kaue2/Data_visualization)** <br> 💻 *.NET Core, Entity Framework* | [cite_start]Backend robusto para gerenciar datasets complexos com consultas LINQ otimizadas e arquitetura limpa[cite: 26, 28, 29]. |
+| **[Price Crawler](https://github.com/Kaue2/Price_crawler)** <br> 🦀 *Rust, Python, RabbitMQ* | Arquitetura de microsserviços orientada a eventos. Possui um módulo ETL de alta performance em **Rust** e crawler em **Python**. |
+| **https://www.shorturl.at/(https://github.com/Kaue2/Encurtador_url)** <br> 🐹 *Go, Redis, Docker* | API de baixíssima latência construída em **Go (Golang)** utilizando **Redis** para cache rápido e deploy via Docker. |
+| **[Data Visualization](https://github.com/Kaue2/Data_visualization)** <br> 💻 *.NET Core, Entity Framework* | Backend robusto para gerenciar datasets complexos com consultas LINQ otimizadas e arquitetura limpa. |
 | **[Low-Level Labs](https://github.com/Kaue2/MT-rust)** <br> 🛡️ *Rust, Security* | Inclui o **MT-Rust** e projetos de **[Esteganografia](https://github.com/Kaue2/Esteganografia)**, focados em manipulação de memória e segurança de dados. |
 
 <br>
