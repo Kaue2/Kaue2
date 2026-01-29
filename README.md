@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Kauê dos Anjos 👋</h1>
+  <h1>Hi, I am Kauê dos Anjos 👋</h1>
   <h3>Software Engineer | .NET Specialist | Rust & Go Enthusiast</h3>
 
   <p>
@@ -22,20 +22,20 @@
 
 <hr>
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,rust,go,python,docker,mongodb,postgres,redis,rabbitmq,git" />
 </div>
 
 <br>
 
-### 🚀 Projetos em Destaque
+### 🚀 Projects
 
-| Projeto & Stack | Descrição |
+| Project & Stack | Description |
 | :--- | :--- |
-| **[Price Crawler](https://github.com/Kaue2/Price_crawler)** <br> 🦀 *Rust, Python, RabbitMQ* | Arquitetura de microsserviços orientada a eventos. Possui um módulo ETL de alta performance em **Rust** e crawler em **Python**. |
-| **https://www.shorturl.at/(https://github.com/Kaue2/Encurtador_url)** <br> 🐹 *Go, Redis, Docker* | API de baixíssima latência construída em **Go (Golang)** utilizando **Redis** para cache rápido e deploy via Docker. |
-| **[Data Visualization](https://github.com/Kaue2/Data_visualization)** <br> 💻 *.NET Core, Entity Framework* | Backend robusto para gerenciar datasets complexos com consultas LINQ otimizadas e arquitetura limpa. |
-| **[Low-Level Labs](https://github.com/Kaue2/MT-rust)** <br> 🛡️ *Rust, Security* | Inclui o **MT-Rust** e projetos de **[Esteganografia](https://github.com/Kaue2/Esteganografia)**, focados em manipulação de memória e segurança de dados. |
+| **[Price Crawler](https://github.com/Kaue2/Price_crawler)** <br> 🦀 *Rust, Python, RabbitMQ, Golang* | Event-driven microservices architecture. Features a high-performance ETL module in **Rust** and a **Python**-based crawler for automated data collection. |
+| **[Url Shortener](https://github.com/Kaue2/Encurtador_url)** <br> 🐹 *Go, Redis, Docker* | Low-latency REST API engineered with **Go (Golang)**. Utilizes **Redis for high-speed** caching and **Docker** for seamless containerized deployment.. |
+| **[Data Visualization](https://github.com/Kaue2/Data_visualization)** <br> 💻 *.NET Core, Entity Framework* | Robust backend built with **ASP.NET Core and Entity Framework** to manage complex datasets. Features optimized LINQ queries and efficient data modeling. |
+| **Low-Level Labs** <br> 🛡️ *Rust, Security* | Includes **[MT-Rust](https://github.com/Kaue2/MT-rust)** and **[Steganography](https://github.com/Kaue2/Esteganografia)** projects, focusing on memory manipulation and data security , leveraging strong analytical and logical skills. |
 
 <br>
