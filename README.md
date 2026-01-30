@@ -10,13 +10,6 @@
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
     </a>
   </p>
-
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaue2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue2&layout=compact&theme=tokyonight&langs_count=8"/>
-  </div>
-  
   
 </div>
 
